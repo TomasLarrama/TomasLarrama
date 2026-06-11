@@ -3,6 +3,8 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software enfocado en crear soluciones digitales robustas, escalables y con código limpio y eficiente. Me especializo en el ecosistema de JavaScript/TypeScript, construyendo desde aplicaciones móviles nativas hasta plataformas web de alto rendimiento.
 
+*💡 Nota: Actualmente me encuentro activando y ordenando este perfil de GitHub, por lo que mi historial de actividad reciente se encuentra en pleno crecimiento.*
+
 ---
 
 ## 🚀 Sobre Mí & Especialización
@@ -36,3 +38,7 @@
 
 - 🎯 **Objetivo actual:** Continuar optimizando plataformas interactivas y catálogos autogestionables de alto rendimiento.
 - 📬 ¡Puedes contactarme para colaborar en proyectos desafiantes!
+
+### 🌐 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-larrama-sosa-a49b57345/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomi.mf16)
